@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Fundament Skill Test
+                    Laravel Fundamental Skill Test
                 </div>
 
                
